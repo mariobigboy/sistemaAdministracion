@@ -14,4 +14,6 @@ Sistema de Administracion: factura, presupuesto, clientes, productos, inventario
 -productos (ABM)
 -ecommerce
 -logs
+-generador de etiquetas con codigo de barra
+el sistema puede leer desde fuente escanner laser codigo de barra
 
