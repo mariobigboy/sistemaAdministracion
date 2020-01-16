@@ -16,4 +16,6 @@ Sistema de Administracion: factura, presupuesto, clientes, productos, inventario
 -logs
 -generador de etiquetas con codigo de barra
 -el sistema puede leer desde fuente escanner laser codigo de barra
+-Reporte anual de ventas, detalle mensual x sucursal
+-Reporte venta empleados, sucursal, timeline
 
